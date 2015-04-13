@@ -1,0 +1,129 @@
+OBJECTIVE 1
+---------------
+Design realization, review and
+assurance as per defined
+solution guidelines and quality
+
+MEASUREMENT CRITERIA
+
+Assurance as per defined
+solution guidelines and quality
+1.Completeness of LLD and Coding guidelines documents (as signed off
+by the customer, the revisions should be less than 20% of the
+submitted deliverable, allowing room for updates) in line with HLD /
+SAD guidelines
+- No. of patterns / anti-patterns chosen and deployed for design
+realization
+- No. of framework components and shared services created for
+development team abstracting the design and architecture layer from
+core developers
+2.Less than 5% deviation
+3.# of Design best practices applied or shared during the project. No. of
+performance engineering mechanisms deployed (created or
+leveraged) - no. of use cases
+- No. of design-for-performance approaches created / adopted as
+best practices. - No. of productivity accelerators / framework
+components used to facilitate integration.
+4.Participate in Design Review meetings with the customer to take
+timely sign off (intermediate & final)
+5,Measure of # of use cases executed towards design and architecture
+verification.
+6.Measure of # of design recommendations based on architecture
+guidelines
+
+
+
+
+OBJECTIVE 2
+
+Project Execution
+
+MEASUREMENT CRITERIA
+
+1.Status updates to the Project Manager as per mutual agreement
+Identify, document and track Technology related risks and mitigation
+plan in the project
+2.Measure of # of Technology related risks found during RCA corrective
+action plan against the total # of Technology related risks identified
+and addressed should be lesser than 10%
+3.Set up Project Environment at onsite and assist/ audit offshore team
+to set up project environment.
+- Selection of appropriate IDE
+- Setting up build process
+- Integration of Static Code analysis, Unit Test, Memory Leak Analysis,
+Code Coverage tools into build system
+- Integration of Test Automation
+4.Correctness of Build and Release - % of rejection in builds / releases
+due to version related issues.
+5.Product Enhancement – Contribute to Code Optimization and
+Optimum memory usage.
+
+
+OBJECTIVE 3
+
+Architecture
+
+MEASUREMENT CRITERIA
+1.Contribute towards evaluation of tools, products and software
+selection (build vs. buy) to suit the blue print of the customer
+architecture under the guidance of Technical Architect. Measure on #
+of tools analyzed in a year. Target - At least two tools to be analyzed
+in a year.
+2.Measure of # of POCs implemented and CRPs prepared to defend
+chosen architecture in a year.
+3.# of sessions conducted on Customer Architecture to ensure team
+alignment and understanding.
+4.Participation in External Architecture Review of other engagements
+within the account - Target At least one review per 6 months / based
+on need.
+
+
+
+OBJECTIVE 4
+
+Technology landscape
+
+alignmentMEASUREMENT CRITERIA
+
+Works with Onsite PM, Program Management team and Architect on
+preparing technology road map presentations relevant for customer
+business needs and account expansion. Works on pro-active
+proposals (no) , ( no) of value adds presented
+
+
+
+OBJECTIVE
+Customer Interaction on
+Technical front.
+MEASUREMENT CRITERIA
+1.Identify integration points in Customer Enterprise architecture and
+involve the relevant teams at various stages of the project.
+2.Measure on # of Design/Architecture meetings conducted/attended
+with Customer stakeholders.
+with Customer stakeholders.
+
+
+OBJECTIVE
+Knowledge Management
+
+MEASUREMENT CRITERIA
+1.Measure on # of certifications in chosen technology platform
+- Measure on # of training hours spent / certifications obtained on EA
+and Design topics
+- Measure on # of training sessions conducted / no. of mentees
+- Measure on # of artifacts contributed to KM / presented in forums
+2.Measure on # of reusable components contributed through the team
+in a year – Target At least 1 every six months
+
+
+OBJECTIVE
+Quality and Process
+
+MEASUREMENT CRITERIA
+
+Quality and Process
+Compliance to the processes and standards
+Quality of Documentation
+Quality of code
+Completing timesheet on time
+Ensure quality standards followed by junior members
