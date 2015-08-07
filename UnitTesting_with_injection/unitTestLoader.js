@@ -48,7 +48,7 @@ if(typeof queryValue !== 'undefined' && queryValue === "unitTest=true"){
 		//make it synchronous loading
 		loadFile("CSS", "//code.jquery.com/qunit/qunit-1.18.0.css", function(){
 			loadFile("JS", "//code.jquery.com/qunit/qunit-1.18.0.js", function(){
-				loadFile("JS", "tiaa_accordion_widget.test.js", function(){});					
+				loadFile("JS", "widget.test.js", function(){});					
 			});		
 		});
 	});	
