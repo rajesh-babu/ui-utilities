@@ -1,8 +1,8 @@
  /*!
-  * @Project Name			: TIAA-V2-Redesign  
+  * @Project Name			: New
   * @Description			: This Script Block is to load the Qunit framework if the page is indended to unit testing 
-  * @Created				  : Rajesh Thoghuluva - Aug 07, 2015
-  * @Last Modified 		: <Enter Here>
+  * @Created				: Rajesh Thoghuluva - Aug 07, 2015
+  * @Last Modified 	    	        : <Enter Here>
   */
 "use strict";
 
