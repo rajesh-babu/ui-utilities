@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+  div {
+      margin-top:1000px;
+  }
+  div:last-child {
+      padding-bottom:1000px;
+  }
+
+</style>
+</head>
+<body>
+<H1> Scroll to Div using Anchor Tag</H1>
+<a href="#el1" class="click">Click this to scroll to element 1!</a><br />
+<a href="#el2" class="click">Click this to scroll to element 2!</a><br />
+<a href="#el3" class="click">Click this to scroll to element 3!</a><br />
+
+
+<div id="el1">element 1</div>
+<div id="el2">element 2</div>
+<div id="el3">element 3</div>
+</body>
+</html>
